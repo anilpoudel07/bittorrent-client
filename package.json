@@ -1,0 +1,20 @@
+{
+  "name": "webtorrent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bencode": "^4.0.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "net": "^1.0.2",
+    "node-fetch": "^3.3.2",
+    "node-udp": "^1.0.5"
+  }
+}
